@@ -1,2 +1,2 @@
-# Zigwan-Website
+# Capthom - frontend 
 A formal Website.
